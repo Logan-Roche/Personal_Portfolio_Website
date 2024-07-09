@@ -271,6 +271,7 @@ section {
   gap: 2rem;
   margin-bottom: 2rem;
   margin-top: 2rem;
+  justify-content: center;
 }
 
 .about-details-container {
@@ -362,6 +363,16 @@ article .icon {
 .color-container {
   background-color: rgb(163, 163, 163);
   background: rgb(250, 250, 250);
+}
+
+.project-container{
+  padding: 1.5rem;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+  justify-content: center;
 }
 
 .project-img {
