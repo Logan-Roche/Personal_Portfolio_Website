@@ -377,8 +377,11 @@ article .icon {
 
 .project-img {
   border-radius: 2rem;
-  width: 90%;
-  height: 90%;
+  width: 20rem;
+  height: 50%;
+  border-color: lightgrey;
+  border-style: solid;
+
 }
 
 .project-title {
